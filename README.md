@@ -5,4 +5,4 @@ Github intro lab
 ### AI developer
 **For Bold**\
 *For Italic*\
-***For both italic and bold***\
+***For both italic and bold***
